@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1558930136 source:d:\college\semester 2\praktikum algoritma & struktur data\[tugas besar] shape & color detection\project circle of order v2\main.cpp
+	"Color.hpp"
+	<iostream>
+	<vector>
+	<opencv2\highgui\highgui.hpp>
+	<opencv2\imgcodecs\imgcodecs.hpp>
+	<opencv2\opencv.hpp>
+
+1558931591 source:d:\college\semester 2\praktikum algoritma & struktur data\[tugas besar] shape & color detection\project circle of order v2\color.cpp
+	"Color.hpp"
+
+1558933418 d:\college\semester 2\praktikum algoritma & struktur data\[tugas besar] shape & color detection\project circle of order v2\color.hpp
+	<string>
+	<opencv2\highgui\highgui.hpp>
+	<opencv2\opencv.hpp>
+
+1560033663 source:d:\college\semester 2\praktikum algoritma & struktur data\[tugas besar] shape & color detection\project circle of order\color.cpp
+	"Color.hpp"
+
+1558933418 d:\college\semester 2\praktikum algoritma & struktur data\[tugas besar] shape & color detection\project circle of order\color.hpp
+	<string>
+	<opencv2\highgui\highgui.hpp>
+	<opencv2\opencv.hpp>
+
+1560158702 source:d:\college\semester 2\praktikum algoritma & struktur data\[tugas besar] shape & color detection\project circle of order\main.cpp
+	"Color.hpp"
+	<iostream>
+	<vector>
+	<opencv2\highgui\highgui.hpp>
+	<opencv2\opencv.hpp>
+	<opencv2\imgcodecs\imgcodecs.hpp>
+
